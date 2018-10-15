@@ -1,0 +1,11 @@
+version: "3"
+services:
+  zookeeper:
+    container_name: zookeeper
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+    - 2181:2181
+    - 2888:2888
+    - 3888:3888
