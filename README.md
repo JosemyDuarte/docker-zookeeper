@@ -26,4 +26,4 @@ Run with Docker Compose:
 
 ### Available tags
 
-- Apache ZooKeeper 3.5.4 ([3.5.4](https://github.com/JosemyDuarte/docker-zookeeper/blob/3.5.4/Dockerfile), [latest](https://github.com/JosemyDuarte/docker-zookeeper/blob/latest/Dockerfile))
+- Apache ZooKeeper 3.5.4 ([3.5.4](https://github.com/JosemyDuarte/docker-zookeeper/blob/3.5.4/Dockerfile), [latest](https://github.com/JosemyDuarte/docker-zookeeper/blob/master/Dockerfile))
