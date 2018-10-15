@@ -1,4 +1,4 @@
-FROM josemyd/docker-centos-jdk:jdk-10
+FROM josemyd/centos-jdk:jdk-10
 
 USER root
 
